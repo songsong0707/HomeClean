@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "全部服务",
+  "usingComponents": {
+    "ju-navigator-grid": "/components/ju-navigator-grid/ju-navigator-grid"
+  }
+}

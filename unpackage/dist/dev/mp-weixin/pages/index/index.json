@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "ju-navigator-grid": "/components/ju-navigator-grid/ju-navigator-grid",
+    "wyb-notice-bar": "/components/wyb-noticeBar/wyb-noticeBar"
+  }
+}

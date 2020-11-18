@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-icon": "/components/QuShe-inputs/uni-icon"
+  },
+  "component": true
+}

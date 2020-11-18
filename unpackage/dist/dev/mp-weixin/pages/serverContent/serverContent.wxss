@@ -1,0 +1,68 @@
+
+.bt2 image{
+	width: 40rpx;
+	height: 40rpx;
+}
+.bt2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	width: 50%;
+	height: 100rpx;
+	border-top:1rpx solid #C0C0C0;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	    /*实现水平居中*/
+	    -webkit-box-pack: center;
+	    -webkit-justify-content: center;
+	            justify-content: center;
+	    
+	    text-align: justify;
+}
+.bt{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	position:fixed;
+	bottom: 0;
+	z-index: 999;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: #333333;
+	width: 100%;
+	background-color: white;
+}
+.headimg{
+	width: 100%;
+}
+.headimg image{
+	width: 100%;
+	height: 300rpx;
+}
+.servertitle{
+	font-weight: 600;
+	font-size: 34rpx;
+	text-align: center;
+	margin-bottom: 30rpx;
+	margin-top: 20rpx;
+}
+.servertitle text{
+	text-align: center;
+}
+.serverContent{
+	width: 95%;
+	margin: 0 auto;
+}
+
+
+

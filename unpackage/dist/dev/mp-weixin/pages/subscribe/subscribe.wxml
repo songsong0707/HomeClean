@@ -1,0 +1,1 @@
+<view><text-view vue-id="231c9b2a-1" content="{{content}}" bind:__l="__l"></text-view><inputs vue-id="231c9b2a-2" inputsArray="{{inputsArray}}" activeName="立即预约" fontSizeScaleSet="{{fontSizeScaleSet}}" data-event-opts="{{[['^activeFc',[['activeFc']]]]}}" bind:activeFc="__e" bind:__l="__l"></inputs></view>

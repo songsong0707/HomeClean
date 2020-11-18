@@ -1,0 +1,1 @@
+<view><text-view vue-id="04bbcce4-1" content="{{content}}" bind:__l="__l"></text-view><inputs vue-id="04bbcce4-2" inputsArray="{{inputsArray}}" activeName="提交信息" fontSizeScaleSet="{{fontSizeScaleSet}}" data-event-opts="{{[['^activeFc',[['activeFc']]]]}}" bind:activeFc="__e" bind:__l="__l"></inputs></view>

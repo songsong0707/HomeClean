@@ -1,0 +1,22 @@
+
+.title_type {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	font-size: 30rpx;
+}
+.title_color {
+	width: 10rpx;
+	height: 40rpx;
+	background-color: #4CD964;
+	margin-right: 10rpx;
+}
+.serverdetail {
+	width: 95%;
+	margin: 0 auto;
+}
+

@@ -1,0 +1,1 @@
+<view><view class="headimg"><image src="{{headimg}}"></image></view><view class="title"><text>{{newsTitle}}</text></view><view class="content"><view><rich-text nodes="{{newsContent}}"></rich-text></view></view></view>
